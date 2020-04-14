@@ -4,7 +4,7 @@ I have never posted any photos/videos about this project on public media. All vi
 edk2-sagit源码仅在此repo发布。 
 **以下视频并非原创**  
 >
-> 视频：https://www.bilibili.com/video/av497635981（https://www.bilibili.com/video/BV1xK411L74d）  
+> 视频：https://www.bilibili.com/video/av497635981 （https://www.bilibili.com/video/BV1xK411L74d）  
 > 个人主页：https://space.bilibili.com/341690282  
  
 This info is only added due to people's requests and the fact that this being overblown, as well as some misleading infos popping up.  
